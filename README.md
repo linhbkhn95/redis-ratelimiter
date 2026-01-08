@@ -20,7 +20,7 @@ go get github.com/linhbkhn95/redis-ratelimiter
 
 ## Prerequisites
 
-- Go 1.25.1 or higher
+- Go 1.23 or higher
 - Redis server (version 6.0+ recommended)
 
 ## Quick Start
