@@ -1,6 +1,6 @@
 module github.com/linhbkhn95/redis-ratelimiter
 
-go 1.25.1
+go 1.23
 
 require (
 	github.com/go-redis/redis_rate/v10 v10.0.1
